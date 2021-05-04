@@ -1,5 +1,5 @@
 # Vantage Resources
-Update Vantage Field Value: <a href="file://aqua26/Neptune/Dashboards/UpdateVantageField/UpdateVantageFields.application">Link</a>
+Update Vantage Field Value: <a href="file://aqua26/Neptune/Dashboards/UpdateVantageField/UpdateVantageFields.application">Link</a><br>
 DMT Tool:
 - DMT Demo: Click <a href="https://www.epicor.com/en-us/virtual-tours/dmt-demo-ens/dmt%20demo%20content/" target="_blank">Link</a>
   - Enter your Aqua email to access
