@@ -1,6 +1,7 @@
 # Vantage Resources
 Update Vantage Field Value:<br> 
 - file://aqua26/Neptune/Dashboards/UpdateVantageField/UpdateVantageFields.application
+Vantage Linked servers on SQL servers:<br> 
 - Add linked server in 64bit server SQL. Click <a href="https://github.com/aquaaerobicsystem/Vantage/issues/5" target="_blank">Link</a><br>
 <br>
 DMT Tool:<br>
